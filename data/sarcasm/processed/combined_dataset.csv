@@ -1,0 +1,49 @@
+text,label,platform,source_dataset,clean_text
+"Love when the train is late again, exactly how I wanted to start the day.",1,twitter,demo_multiplatform_sarcasm.csv,love train late exactly wanted start day
+Just landed in Moscow and the weather is beautiful.,0,twitter,demo_multiplatform_sarcasm.csv,landed moscow weather beautiful
+"Oh great, another app update that broke everything.",1,twitter,demo_multiplatform_sarcasm.csv,oh great another app update broke everything
+Finished the report before the deadline.,0,twitter,demo_multiplatform_sarcasm.csv,finished report deadline
+Nothing says fun like answering emails at 2 a.m.,1,twitter,demo_multiplatform_sarcasm.csv,nothing say fun like answering email
+The concert tickets sold out in five minutes.,0,twitter,demo_multiplatform_sarcasm.csv,concert ticket sold five minute
+"Perfect, my phone battery died during navigation.",1,twitter,demo_multiplatform_sarcasm.csv,perfect phone battery died navigation
+I finally fixed the deployment issue.,0,twitter,demo_multiplatform_sarcasm.csv,finally fixed deployment issue
+"Amazing, the site crashed right before the demo!",1,twitter,demo_multiplatform_sarcasm.csv,amazing site crashed right demo !
+The coffee here is actually pretty good.,0,twitter,demo_multiplatform_sarcasm.csv,coffee actually pretty good
+"Yeah, because losing my file was exactly the plan.",1,twitter,demo_multiplatform_sarcasm.csv,yeah losing file exactly plan
+Had a calm evening reading at home.,0,twitter,demo_multiplatform_sarcasm.csv,calm evening reading home
+"Sure, spending six hours debugging one typo was deeply fulfilling.",1,reddit,demo_multiplatform_sarcasm.csv,sure spending six hour debugging one typo deeply fulfilling
+I upgraded my PC and the compile time dropped a lot.,0,reddit,demo_multiplatform_sarcasm.csv,upgraded pc compile time dropped lot
+"My landlord raised the rent again, what a generous soul.",1,reddit,demo_multiplatform_sarcasm.csv,landlord raised rent generous soul
+The new season was better than I expected.,0,reddit,demo_multiplatform_sarcasm.csv,new season better expected
+Absolutely love when strangers explain my own job to me.,1,reddit,demo_multiplatform_sarcasm.csv,absolutely love stranger explain job
+I cooked dinner for my family tonight.,0,reddit,demo_multiplatform_sarcasm.csv,cooked dinner family tonight
+"Yeah right, because the printer only jams when I need it most.",1,reddit,demo_multiplatform_sarcasm.csv,yeah right printer jam need
+My exam result came back and I passed.,0,reddit,demo_multiplatform_sarcasm.csv,exam result came back passed
+"Fantastic, the meeting that could be an email now has three follow-up meetings.",1,reddit,demo_multiplatform_sarcasm.csv,fantastic meeting could email three follow-up meeting
+Our team merged the feature without conflicts.,0,reddit,demo_multiplatform_sarcasm.csv,team merged feature without conflict
+Nothing makes me happier than waking up to construction noise.,1,reddit,demo_multiplatform_sarcasm.csv,nothing make happier waking construction noise
+I found the book I was looking for.,0,reddit,demo_multiplatform_sarcasm.csv,found book looking
+"Thanks for posting spoilers everywhere, really thoughtful.",1,facebook,demo_multiplatform_sarcasm.csv,thanks posting spoiler everywhere really thoughtful
+"Happy birthday to my sister, wishing you the best!",0,facebook,demo_multiplatform_sarcasm.csv,happy birthday sister wishing best !
+Lovely how customer support replied after only three weeks.,1,facebook,demo_multiplatform_sarcasm.csv,lovely customer support replied three week
+Spent the weekend with family and had a great time.,0,facebook,demo_multiplatform_sarcasm.csv,spent weekend family great time
+Of course the washing machine broke on laundry day.,1,facebook,demo_multiplatform_sarcasm.csv,course washing machine broke laundry day
+We adopted a puppy today.,0,facebook,demo_multiplatform_sarcasm.csv,adopted puppy today
+"What a miracle, the internet died during my online interview.",1,facebook,demo_multiplatform_sarcasm.csv,miracle internet died online interview
+Homemade cake turned out surprisingly well.,0,facebook,demo_multiplatform_sarcasm.csv,homemade cake turned surprisingly well
+Because obviously traffic is faster when it rains.,1,facebook,demo_multiplatform_sarcasm.csv,obviously traffic faster rain
+Our vacation photos are finally uploaded.,0,facebook,demo_multiplatform_sarcasm.csv,vacation photo finally uploaded
+"Great job, Facebook reminded me about an event that ended yesterday.",1,facebook,demo_multiplatform_sarcasm.csv,great job facebook reminded event ended yesterday
+My friend opened a new cafe downtown.,0,facebook,demo_multiplatform_sarcasm.csv,friend opened new cafe downtown
+Love getting acne the day before photos.,1,instagram,demo_multiplatform_sarcasm.csv,love getting acne day photo
+Sunset hike with friends tonight.,0,instagram,demo_multiplatform_sarcasm.csv,sunset hike friend tonight
+Nothing more aesthetic than spilled coffee on a white shirt.,1,instagram,demo_multiplatform_sarcasm.csv,nothing aesthetic spilled coffee white shirt
+Tried a new recipe and it actually worked.,0,instagram,demo_multiplatform_sarcasm.csv,tried new recipe actually worked
+"Perfect lighting, and then my phone fell in the sand.",1,instagram,demo_multiplatform_sarcasm.csv,perfect lighting phone fell sand
+Morning run by the river.,0,instagram,demo_multiplatform_sarcasm.csv,morning run river
+So cute when the airline loses my luggage before vacation.,1,instagram,demo_multiplatform_sarcasm.csv,cute airline loses luggage vacation
+Weekend market haul and fresh flowers.,0,instagram,demo_multiplatform_sarcasm.csv,weekend market haul fresh flower
+Totally obsessed with how my package arrived empty.,1,instagram,demo_multiplatform_sarcasm.csv,totally obsessed package arrived empty
+New sketchbook day.,0,instagram,demo_multiplatform_sarcasm.csv,new sketchbook day
+"Amazing, my skincare exploded inside the bag.",1,instagram,demo_multiplatform_sarcasm.csv,amazing skincare exploded inside bag
+Shot some portraits for a friend today.,0,instagram,demo_multiplatform_sarcasm.csv,shot portrait friend today

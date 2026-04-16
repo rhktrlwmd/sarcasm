@@ -1,0 +1,41 @@
+feature,weight,direction
+pragmatic__positive_word_count,1.075457894298771,sarcastic
+platform__platform_instagram,0.650234473051611,sarcastic
+pragmatic__char_count,0.41946836471531185,sarcastic
+pragmatic__negation_count,0.359238962076738,sarcastic
+word_tfidf__day,0.20526343520706392,sarcastic
+word_tfidf__acne,0.17227149772111314,sarcastic
+word_tfidf__getting acne,0.17227149772111314,sarcastic
+word_tfidf__getting,0.17227149772111314,sarcastic
+word_tfidf__acne day,0.17227149772111314,sarcastic
+word_tfidf__day photo,0.17227149772111314,sarcastic
+word_tfidf__love getting,0.17227149772111314,sarcastic
+word_tfidf__love,0.15454808746395346,sarcastic
+word_tfidf__photo,0.11946663193726084,sarcastic
+word_tfidf__amazing,0.113662138766555,sarcastic
+word_tfidf__answering,0.10858997429616805,sarcastic
+word_tfidf__fun,0.10858997429616805,sarcastic
+word_tfidf__like answering,0.10858997429616805,sarcastic
+word_tfidf__like,0.10858997429616805,sarcastic
+word_tfidf__nothing say,0.10858997429616805,sarcastic
+word_tfidf__say,0.10858997429616805,sarcastic
+pragmatic__token_count,-0.49735901815698136,non_sarcastic
+platform__platform_facebook,-0.33596233545925025,non_sarcastic
+platform__platform_reddit,-0.24668634665589204,non_sarcastic
+word_tfidf__landed,-0.1779417202696488,non_sarcastic
+word_tfidf__moscow weather,-0.1779417202696488,non_sarcastic
+word_tfidf__moscow,-0.1779417202696488,non_sarcastic
+word_tfidf__weather beautiful,-0.1779417202696488,non_sarcastic
+word_tfidf__weather,-0.1779417202696488,non_sarcastic
+word_tfidf__landed moscow,-0.1779417202696488,non_sarcastic
+word_tfidf__beautiful,-0.1779417202696488,non_sarcastic
+pragmatic__exclamation_count,-0.14638885473533259,non_sarcastic
+word_tfidf__wishing best,-0.1136106349704957,non_sarcastic
+word_tfidf__wishing,-0.1136106349704957,non_sarcastic
+word_tfidf__happy,-0.1136106349704957,non_sarcastic
+word_tfidf__happy birthday,-0.1136106349704957,non_sarcastic
+word_tfidf__best,-0.1136106349704957,non_sarcastic
+word_tfidf__birthday sister,-0.1136106349704957,non_sarcastic
+word_tfidf__sister wishing,-0.1136106349704957,non_sarcastic
+word_tfidf__sister,-0.1136106349704957,non_sarcastic
+word_tfidf__birthday,-0.1136106349704957,non_sarcastic

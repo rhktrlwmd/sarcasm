@@ -1,0 +1,26 @@
+Лабораторная работа №7
+Источник данных: /Users/rhktrlwmd/Documents/New project/data/raw/CollegeMsg.txt.gz
+Размер окна: 50
+Количество окон: 1197
+
+ADF для avg_degree:
+  statistic = -5.643666348895627
+  p_value = 1.0228972792953987e-06
+  conclusion = Стационарный
+
+ADF для in_out_ratio_mean:
+  statistic = -4.5006174281368585
+  p_value = 0.00019613537980963178
+  conclusion = Стационарный
+
+ADF для betweenness вершины 9:
+  statistic = -6.550428444923118
+  p_value = 8.879406442851193e-09
+  conclusion = Стационарный
+
+Корреляция avg_degree и n_components: -0.780719443089999
+Декомпозиция построена: да
+
+ARIMA:
+  MAE = 0.1263244745635422
+  RMSE = 0.17601869481705892

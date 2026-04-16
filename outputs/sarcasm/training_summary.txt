@@ -1,0 +1,7 @@
+Sarcasm detection diploma project
+Samples: 48
+Platforms: facebook, instagram, reddit, twitter
+Best model: logistic_regression
+Best test F1: 0.9091
+Lemmatization enabled: True
+Stemming enabled: False

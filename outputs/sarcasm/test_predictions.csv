@@ -1,0 +1,13 @@
+text,clean_text,platform,true_label,predicted_label,error
+So cute when the airline loses my luggage before vacation.,cute airline loses luggage vacation,instagram,1,1,0
+Tried a new recipe and it actually worked.,tried new recipe actually worked,instagram,0,0,0
+I finally fixed the deployment issue.,finally fixed deployment issue,twitter,0,0,0
+Spent the weekend with family and had a great time.,spent weekend family great time,facebook,0,1,1
+Absolutely love when strangers explain my own job to me.,absolutely love stranger explain job,reddit,1,1,0
+The new season was better than I expected.,new season better expected,reddit,0,0,0
+Our team merged the feature without conflicts.,team merged feature without conflict,reddit,0,0,0
+Nothing more aesthetic than spilled coffee on a white shirt.,nothing aesthetic spilled coffee white shirt,instagram,1,1,0
+New sketchbook day.,new sketchbook day,instagram,0,0,0
+"Yeah, because losing my file was exactly the plan.",yeah losing file exactly plan,twitter,1,1,0
+Had a calm evening reading at home.,calm evening reading home,twitter,0,0,0
+Because obviously traffic is faster when it rains.,obviously traffic faster rain,facebook,1,1,0
