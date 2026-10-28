@@ -1,3 +1,9 @@
 .DS_Store
 __pycache__/
 *.pyc
+.venv*/
+venv/
+tfds_cache/
+tfds_data/
+.env
+.env.*

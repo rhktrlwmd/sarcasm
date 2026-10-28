@@ -1,0 +1,19 @@
+Sarcasm Detection Evaluation Report
+
+Decision threshold: 0.55
+
+Classification report:
+               precision    recall  f1-score   support
+
+Not Sarcastic       0.85      0.90      0.87      1545
+    Sarcastic       0.88      0.83      0.85      1412
+
+     accuracy                           0.86      2957
+    macro avg       0.86      0.86      0.86      2957
+ weighted avg       0.86      0.86      0.86      2957
+
+Metrics:
+Accuracy : 0.8624
+Precision: 0.8792
+Recall   : 0.8251
+F1-score : 0.8513

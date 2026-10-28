@@ -1,0 +1,2 @@
+"""Multilingual sarcasm detection package."""
+

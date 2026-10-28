@@ -1,0 +1,4 @@
+label,avg_discount,avg_margin_ratio,anomaly_months,trend_slope
+West-D,23.0,0.641,11,-0.033
+North-B,17.6,0.684,10,-0.027
+South-E,21.1,0.722,9,-0.025

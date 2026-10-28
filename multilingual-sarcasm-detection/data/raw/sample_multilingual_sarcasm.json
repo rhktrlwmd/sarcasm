@@ -1,0 +1,34 @@
+[
+  {
+    "headline": "Amazing, my laptop froze right before the presentation.",
+    "is_sarcastic": 1
+  },
+  {
+    "headline": "The team submitted the report ahead of schedule.",
+    "is_sarcastic": 0
+  },
+  {
+    "headline": "Прекрасно, ещё одна бессонная ночь перед экзаменом.",
+    "is_sarcastic": 1
+  },
+  {
+    "headline": "Мы встретились в кафе после лекций и долго разговаривали.",
+    "is_sarcastic": 0
+  },
+  {
+    "headline": "Qué bien, cancelaron el vuelo después de пяти часов ожидания.",
+    "is_sarcastic": 1
+  },
+  {
+    "headline": "El profesor explicó el tema con ejemplos claros.",
+    "is_sarcastic": 0
+  },
+  {
+    "headline": "Magnifique, le serveur a perdu notre réservation encore une fois.",
+    "is_sarcastic": 1
+  },
+  {
+    "headline": "Die Studenten diskutierten ruhig über das neue Projekt.",
+    "is_sarcastic": 0
+  }
+]

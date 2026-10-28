@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.streamlit/
+.pytest_cache/
+models/*.pkl
+models/*.json
+data/processed/*.csv
+data/processed/*.json
+data/processed/plots/
+
